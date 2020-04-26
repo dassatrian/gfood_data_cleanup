@@ -1,0 +1,376 @@
+Public Food Key,Food Survey ID,Measure ID,Measure description 1,Measure description 2,Measure description 3,Measure description 4,Weight in grams,Volume in mLs,Derivation,Measure derivation description
+F000996,29101,74551,can,,,,379.0,375,Estimated,Assumes 375mL based on FSANZ internet search. Volume multiplied by density to determine the gram amount.
+F000994,29101,74554,can,,,,379.0,375,Estimated,Assumes 375mL based on FSANZ internet search. Volume multiplied by density to determine the gram amount.
+F000995,29101,74972,can,,,,379.0,375,Estimated,Assumes 375mL based on FSANZ internet search. Volume multiplied by density to determine the gram amount.
+F001006,29102,74971,can,,,,379.0,375,Estimated,Assumes 375mL based on FSANZ internet search. Volume multiplied by density to determine the gram amount.
+F001004,29102,74558,can,,,,379.0,375,Estimated,Assumes 375mL based on FSANZ internet search. Volume multiplied by density to determine the gram amount.
+F000051,29301,74560,shot,,,,28.8,30,Borrowed,Assumes 30 mL based on FSANZ internet research 2011. Volume multiplied by density to determine gram amount.
+F002955,29401,74561,bottle,,,,398.0,394,Estimated,Based on the average bottle size of 7 commonly available apple ciders
+F008402,11503,74562,can,,,,390.0,375,Estimated,Based on standard can size and density.
+F008402,11503,74563,bottle,,,,624.0,600,Estimated,Based on standard bottle size multiplied by density.
+F008403,11503,74564,can,,,,390.0,375,Estimated,Based on standard can size and density.
+F008403,11503,74565,bottle,,,,624.0,600,Estimated,Based on standard bottle size multiplied by density.
+F008404,11504,74567,bottle,,,,600.0,600,Estimated,Based on standard bottle size multiplied by density.
+F008404,11504,74566,can,,,,375.0,375,Estimated,Based on standard can size and density.
+F008405,11504,74568,can,,,,375.0,375,Estimated,Based on standard can size and density.
+F008405,11504,74569,bottle,,,,600.0,600,Estimated,Based on standard bottle size multiplied by density.
+F008421,11603,74570,can,,,,263.0,250,Label Data,Size of small Red Bull can available in 2017.  Volume multiplied by density to determine the gram amount.
+F008424,11603,74571,can,,,,263.0,250,Label Data,Size of small V can available in April 2013.  Volume multiplied by density to determine the gram amount.
+F008438,11501,74572,can,,,,390.0,375,Estimated,Based on standard can size multiplied by density.
+F008438,11501,74573,bottle,,,,624.0,600,Estimated,Based on standard bottle size multiplied by density.
+F008439,11502,74575,bottle,,,,600.0,600,Estimated,Based on standard bottle size multiplied by density.
+F008439,11502,74574,can,,,,375.0,375,Estimated,Based on standard can size multiplied by density.
+F008460,11501,74576,bottle,,,,309.0,300,Estimated,Based on standard bottle size multiplied by density.
+F008461,11502,74577,bottle,,,,300.0,300,Estimated,Based on standard bottle size multiplied by density.
+F003095,13101,74578,cone,medium,,all brands,4.0,0,Imputed,"From AUSNUT 2007 record 02C20219 Cone, wafer style, for ice cream"
+F001420,12302,74580,flat bread or pita bread,round,regular,,66.0,0,Label Data,Size of regular sized Mission Pita Bread
+F001420,12302,74579,mountain bread,rectangle,regular,,25.0,0,Label Data,Size of white mountain bread available in 2012.
+F001404,12302,74582,mountain bread,rectangle,regular,,25.0,0,Label Data,Size of wholemeal mountain bread available in 2012.
+F001404,12302,74581,flat bread or pita bread,round,regular,,66.0,0,Imputed,Size of regular sized Mission Pita Bread
+F001463,12201,74587,slice,sandwhich,,,33.0,0,Estimated,"Weighted mean of 19 brands of regular white sandwich bread available in 2013, excludes Helga's"
+F001541,12201,74589,slice,sandwhich,,,27.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001466,12202,74591,slice,sandwhich,,,35.0,0,Imputed,"From AUSNUT 2007 record 02B10294 Bread, from white flour, added calcium"
+F001467,12202,74593,slice,sandwhich,,,29.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001468,12202,74595,slice,sandwhich,,,36.0,0,Imputed,"From AUSNUT 2007 record 02B10216 Bread, from white flour, added fibre"
+F001479,12202,74597,slice,sandwhich,,,30.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001482,12202,74599,slice,sandwhich,,,27.0,0,Imputed,"From AUSNUT 2007 record 02B10308 Bread, from wholemeal flour, added iron"
+F001483,12202,74601,slice,sandwhich,,,23.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001484,12202,74603,slice,sandwhich,,,37.0,0,Imputed,"From AUSNUT 2007 record 02B10297 Bread, from white flour, added omega-3 polyunsaturates"
+F001485,12202,74605,slice,sandwhich,,,31.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001543,12202,74607,slice,sandwhich,,,35.0,0,Label Data,Based on product information available for white Jackaroo bread in 2014.
+F001544,12202,74608,slice,sandwhich,,,29.0,0,Estimated,Calculated from fresh weight assuming -15% weight change factor
+F001528,12201,74613,slice,sandwhich,,,27.0,0,Estimated,Based on the weight of a toast slice
+F001529,12201,74615,slice,sandwhich,,,23.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001353,12201,74619,bun or roll,small/dinner roll,,,34.0,0,Analysed, Average of supermarket and bakery varieties available in 2011 as analysed by FSANZ as part of the 2011 student research project.
+F001353,12201,74617,bun or roll,medium,,,69.0,0,Analysed,Average of supermarket and bakery varieties available in 2011 as analysed by FSANZ as part of the 2011 Student research project.
+F001358,12201,74622,bun or roll,small/dinner roll,,,29.0,0,Analysed,Based on the fresh roll weight with a -14% weight change factor applied
+F001358,12201,74621,bun or roll,medium,,,59.0,0,Estimated,Based on the fresh roll weight with a -14% weight change factor applied
+F001372,12304,74623,bun or roll,,,,85.0,0,Label Data,Size of a regular Bakers delight cheese topped roll available in 2012.
+F001373,12304,74624,bun or roll,,,,85.0,0,Label Data,Size of a regular Bakers delight cheese and bacon topped roll available in 2012.
+F001553,12207,74625,slice,sandwhich,,,32.0,0,Estimated,"Weighted mean of 20 brands available in 2013, excluding Helga's"
+F001597,12207,74627,slice,sandwhich,,,28.0,0,Estimated,Calculated from fresh weight assuming -15% weight change factor
+F001573,12207,74629,slice,sandwhich,,,38.0,0,Label Data,Based on product information available in 2011
+F001576,12207,74631,slice,sandwhich,,,32.0,0,Estimated,Calculated from fresh weight assuming -15% weight change factor
+F001360,12207,74634,bun or roll,medium,,,69.0,0,Analysed,Average of supermarket and bakery varieties available in 2011 as analysed by FSANZ as part of the 2011 Student research project.
+F001360,12207,74633,bun or roll,small/dinner roll,,,35.0,0,Analysed, Average of bakery varieties available in 2011 as analysed by FSANZ as part of the 2011 student research project.
+F001364,12207,74635,bun or roll,small/dinner roll,,,30.0,0,Estimated,Based on the fresh roll weight with a -15% weight change factor applied
+F001364,12207,74636,bun or roll,medium,,,59.0,0,Estimated,Based on the fresh roll weight with a -15% weight change factor applied
+F001545,12203,74637,slice,sandwhich,,,48.0,0,Imputed,"From AUSNUT 2007 record 02B10224 Bread, from white flour, homemade from basic ingredients, regular slice"
+F001548,12203,74639,slice,sandwhich,,,44.0,0,Imputed,"From white bread, organic, commercial, toasted"
+F001621,12204,74646,slice,sandwhich,,,36.0,0,Estimated,Weighted mean of 24 brands available in 2013
+F001644,12204,74648,slice,sandwhich,,,30.0,0,Estimated,Calculated from fresh weight assuming -15% weight change factor
+F001513,12204,74609,slice,sandwhich,,,37.0,0,Label Data,Based on products available in 2013
+F001514,12204,74611,slice,sandwhich,,,31.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001365,12204,74650,bun or roll,medium,,,70.0,0,Analysed,Average of supermarket and bakery varieties available in 2011 as analysed by FSANZ as part of the 2011 Student research project.
+F001368,12204,74651,bun or roll,medium,,,60.0,0,Estimated,Based on the fresh roll weight with a -15% weight change factor applied
+F001457,12305,74652,slice,regular,,,34.0,0,Label Data,Average of 2 brands of fruit bread available in 2013
+F001458,12305,74654,slice,regular,,,28.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001600,12307,74641,slice,regular,,,36.0,0,Estimated,Based on the average weight of 2 types of garlic bread (Homebrand & La Famiglia) available in 2013
+F001603,12213,74642,slice,sandwhich,,,36.0,0,Analysed,FSANZ 2011. Student research project.
+F001609,12213,74644,slice,sandwhich,,,30.0,0,Estimated,Calculated from fresh weight assuming -16% weight change factor
+F001450,12210,74583,slice,sandwhich,,,40.0,0,Analysed,FSANZ 2011 Student research project.
+F001451,12210,74585,slice,sandwhich,,,28.0,0,Imputed,Calculated from fresh weight assuming -15% weight change factor
+F001939,12306,74656,bun,,,finger bun,85.0,0,Label Data,Based on product information available on the Bakers Delight website in 2018
+F003313,13606,74657,crumpet,round,,,42.0,0,Label Data,Average of brands Golden and Mighty Soft available in 2012
+F005896,12301,74658,muffin,2 halves,,not further defined,76.0,0,Label Data,"Average of major brands Tip Top, Wonder White, Mighty Soft"
+F005898,12301,74659,muffin,2 halves,,not further defined,67.0,0,Label Data,"Average of major brands Tip Top, Wonder White, Mighty Soft"
+F005897,12301,74660,muffin,2 halves,,not further defined,70.0,0,Label Data,"Average of major brands Tip Top, Wonder White, Mighty Soft"
+F001688,11805,74661,tetra pack,,,,258.0,250,Label Data,Size of Sanitarium up and go available in 2012. Volume multiplied by the density to determine the gram amount.
+F001374,13303,74662,slice,regular & thick,,,140.0,0,Analysed,Manual weighing of 6 commercial banana breads by FSANZ in 2012.
+F002159,13302,74663,lamington,regular square,,,125.0,0,Imputed,"From AUSNUT  2007 record 02E10298 Cake, lamington, unfilled"
+F002168,13303,74665,cupcake,mini,,,20.0,0,Analysed,Manual weighing of commercial mini cupcakes by FSANZ in 2012.
+F002168,13303,74664,cupcake,medium,,,165.0,0,Analysed,Manual weighing by FSANZ in 2011.
+F003575,13605,74666,doughnut,round,regular,all brands,97.0,0,Estimated,Average label information for commercial products available in 2012
+F003573,13605,74667,doughnut,round,regular,all brands,50.0,0,Label Data,Average label information for commercial products available in 2012
+F003574,13605,74668,doughnut,round,regular,all brands,63.0,0,Label Data,Average of label information for commercial products available in 2012
+F005877,13304,74669,muffin,medium,uniced,,163.0,0,Analysed,Manual weighing of medium/regular commercial muffins by FSANZ in 2011.
+F005882,13304,74670,muffin,medium,uniced,,163.0,0,Imputed,Imputed from berry muffin
+F006700,13602,74671,pikelet,,,,25.0,0,Label Data,"Based on product information available for Coles, Woolworths and Golden pikelets in February 2013"
+F008173,13307,74672,scone,,,,65.0,0,Label Data,Based on product information available on the Bakers Delight website in 2011
+F008172,13307,74673,scone,,,,85.0,0,Label Data,Based on product information available on the Bakers Delight website in 2016
+F006143,12101,74674,sachet,dry/uncooked,,,34.0,0,Label Data,Based on product information available for common brands of oat sachets in 2011
+F007164,12601,74675,sachet,cooked with liquid,,all brands,198.0,0,Estimated,Based on label information for the weight of oats to liquid with a weight change factor applied.
+F004362,13505,74676,burger,made with a bread roll,,all takeaway shops,350.0,0,Analysed,Manual weighing of takeaway hamburgers by FSANZ in 2012.
+F006055,12402,74677,packet - sachet,uncooked,,,79.0,0,Analysed,Manually weighed by FSANZ in 2011
+F006053,12402,74679,packet - sachet,cooked,drained,,145.0,0,Analysed,Weighed  by FSANZ in 2011 after preparing according to label instructions
+F006054,12402,74680,packet - sachet,cooked,undrained,,385.0,0,Analysed,Weighed  by FSANZ in 2011 after preparing according to label instructions
+F008737,13509,74682,can,individual serve,,,220.0,0,Label Data,Based on product information available for common brands in April 2013
+F008738,13509,74683,can,individual serve,,,220.0,0,Imputed,Imputed from regular variety
+F003305,13401,74684,croissant,regular,,,67.0,0,Imputed,"From AUSNUT 2007 02E40059 Croissant, plain"
+F006493,13405,74686,pastry,"regular, individual size",,,140.0,0,Label Data,Average of product information available for Borgs & Herbert Adams in 2013
+F006493,13405,74685,pastry,mini/party size,,,31.0,0,Label Data,Average of product information available for Borgs & Herbert Adams in 2013
+F006665,13405,74688,pie,"regular, individual size",,all brands,175.0,0,Label Data,Average of commonly available commercial meat pies in 2011
+F006665,13405,74687,pie,mini/party size,,all brands,38.0,0,Label Data,Average of commonly available commercial meat pies available in 2011
+F006667,13405,74690,pie,"regular, individual size",,all brands,175.0,0,Imputed,"From 02E60292 Pie, savoury, meat, commercial"
+F006667,13405,74689,pie,mini/party size,,all brands,38.0,0,Imputed,"From 02E60292 Pie, savoury, meat, commercial"
+F008098,13405,74692,sausage roll,"regular, individual size",,all brands,130.0,0,Label Data,Average of commercial brands commonly available in 2012.
+F008098,13405,74691,sausage roll,mini/party size,,all brands,40.0,0,Label Data,Average of commercial brands commonly available in 2012.
+F008101,13405,74693,sausage roll,mini/party size,,all brands,40.0,0,Label Data,Average of commercial brands commonly available in 2012.
+F008101,13405,74694,sausage roll,"regular, individual size",,all brands,130.0,0,Label Data,Average of commercial brands commonly available in 2012.
+F008794,13406,74695,roll,mini/party size,,,30.0,0,Label Data,"Based on product information available for Coles, Ho Mai & Colonial Farm in 2012."
+F008794,13406,74696,roll,regular,,,70.0,0,Estimated,Based on a range of measures from AUSNUT 1999 and AUSNUT 2007
+F006679,13402,74697,pie,"regular, individual size",,all brands,125.0,0,Label Data,Based on product information for Sara Lee individual apple pies available in 2012
+F009102,13403,74698,tart,"regular, individual size",,all brands,135.0,0,Imputed,Based on the size of sweet tarts and pies published in AUSNUT 2007
+F008065,23103,74699,plastic fish,,,,3.0,0,Label Data,Based on product information available for fish shaped soy sauce packets
+F008083,23104,74700,packet/sachet,single serve,squeeze-on,,14.0,0,Label Data,Based on product information available in 2012.
+F008085,23104,74701,packet/sachet,single serve,squeeze-on,,14.0,0,Imputed,"From 10A10444, Sauce, tomato, commercial, regular"
+F002414,19401,74702,slice,sandwich size,,,21.0,0,Label Data,Mean of three slices of pre-sliced cheddar cheese available in 2012
+F002413,19402,74703,slice,sandwich size,,,21.0,0,Label Data,Mean of three slices of pre-sliced cheddar cheese available in 2012
+F002412,19402,74704,slice,sandwich size,,,21.0,0,Label Data,Mean of three slices of pre-sliced cheddar cheese available in 2012
+F002428,19406,74705,slice,sandwich size,,all brands,21.0,0,Label Data,Mean of three slices of pre-sliced cheddar cheese available in 2012
+F002425,19407,74706,slice,sandwich size,,all brands,21.0,0,Label Data,Mean of three slices of pre-sliced cheddar cheese available in 2012
+F002444,19403,74707,tub,small/individual,,,40.0,0,Label Data,Kraft individual cream cheese tubs available in 2012.
+F004508,19501,74708,cup/tub,individual serve,,,127.0,0,Estimated,"Average of Skinny Cow, Weight Watchers, Bulla, Connoisseur & Billabong individual serve products available in 2013"
+F003488,19701,74709,tub/container,individual tub from a 6 pack,,,150.0,0,Label Data,Based on product information available in 2012
+F009694,19201,74710,tub/container,individual tub from a 6 pack,,,200.0,0,Estimated,Assumes same as other 6 packs of full fat yoghurt
+F009741,19205,74711,tub/container,individual tub from a 12 pack,,,100.0,0,Label Data,"Coles, Ski divine, Brooklea product information"
+F009741,19205,74712,tub/container,individual tub from a 6 pack,,,200.0,0,Label Data,"Brooklea indulge, Coles, Ski Divine product information"
+F009749,19205,74713,tub/container,individual tub from a 6 pack,,,175.0,0,Label Data,Yoplait original product information
+F009749,19205,74714,tub/container,individual tub from a twin pack,,,200.0,0,Label Data,Ski divine product information
+F008155,20601,74715,sausage,long and thin,,,72.0,0,Imputed,"From AUSNUT 2007 08G10020 Sausage, vegetarian style, fried, unspecified oil"
+F008151,20601,74716,sausage,long and thin,,,72.0,0,Imputed,"From AUSNUT 2007 08G10020 Sausage, vegetarian style, fried, unspecified oil"
+F008153,20601,74717,fillet,plain or crumbed,,,100.0,0,Label Data,Based on product information available for Quorn label data fro plain & crumbed fillets in 2012
+F009739,20502,74718,tub/container,individual tub from a twin pack,,,175.0,0,Label Data,Soy life product information
+F001973,14101,74719,packet/sachet,Individual serve,,,7.0,0,Label Data,Size of an individual serve packet of butter available in 2012.
+F001971,14101,74720,packet/sachet,Individual serve,,,7.0,0,Label Data,Size of an individual serve packet of butter available in 2012.
+F005370,14301,74721,packet/sachet,individual serve,,,4.7,0,Label Data,Size of an individual serve packet of margarine available in 2012.
+F005373,14301,74722,packet/sachet,individual serve,,,4.7,0,Label Data,Size of an individual serve packet of margarine available in 2012.
+F005319,14306,74723,packet/sachet,individual serve,,,4.7,0,Label Data,Size of an individual serve packet of margarine available in 2012.
+F005309,14303,74724,packet/sachet,individual serve,,,4.7,0,Label Data,Size of an individual serve packet of margarine available in 2012.
+F005310,14303,74725,packet/sachet,individual serve,,,4.7,0,Label Data,Size of an individual serve packet of margarine available in 2012.
+F005345,14304,74726,packet/sachet,individual serve,,,4.7,0,Label Data,Size of an individual serve packet of margarine available in 2012.
+F003729,17101,74729,egg,regular,,,44.0,0,Industry,Data provided by the Australian Egg Corporation in 2007. Calculated from edible portion of a 50 g egg
+F003721,17101,74730,egg,regular,,,41.0,0,Industry,Data provided by the Australian Egg Corporation in 2007. Calculated from edible portion of a 50 g egg
+F003725,17101,74731,egg,regular,,,42.0,0,Estimated,Calculated based on the raw weight assuming -4% weight change factor
+F003718,17101,74732,egg,regular,,,39.0,0,Estimated,Calculated from raw weight assuming -12% weight change factor
+F003724,17102,74727,egg,regular,,,44.0,0,Industry,Data provided by the Australian Egg Corporation in 2007. Calculated from edible portion of a 50 g egg
+F003723,17102,74728,egg,regular,,,44.0,0,Industry,Data provided by the Australian Egg Corporation in 2007. Calculated from edible portion of a 50 g egg
+F000086,16101,74733,fruit,medium,,,164.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000091,16101,74734,fruit,medium,,,164.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000092,16101,74735,fruit,medium,,,151.0,0,Analysed,FSANZ 2011. Student research project. Average size of medium Granny smith and Golden Delicious varieties. Edible portion of 91%.
+F000095,16101,74736,fruit,medium,,,153.0,0,Analysed,FSANZ 2011. Student research project. Average size of medium Granny smith and Golden Delicious varieties. Edible portion of 91%.
+F000099,16101,74737,fruit,medium,,,162.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000105,16101,74738,fruit,medium,,,164.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000107,16101,74739,fruit,medium,,,164.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000111,16101,74740,fruit,medium,,,164.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000110,16101,74741,fruit,medium,,,164.0,0,Analysed,"FSANZ 2011. Student research project. Average size of medium Fuji, Pink Lady, Red Delicious and Royal Gala varieties. Edible portion of 92%"
+F000134,16403,74742,fruit,medium,,,20.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011.
+F000262,16501,74744,fruit,medium,,,98.0,0,Analysed,FSANZ 2011. Student research project. Assumes edible portion 65%.
+F000267,16501,74745,fruit,medium,,,78.0,0,Estimated,Assumes mid-point between small and large. Assumes 67% edible portion.
+F003423,16504,74746,fruit,regular,,,468.0,0,Estimated,Based on average size of 650 g from Custard Apples Australia Inc. and assuming 72% edible portion.
+F003496,16802,74747,fruit,regular,,,5.0,0,Imputed,"From AUSNUT 2007 record 06C10144 Date, dried"
+F003818,16504,74748,fruit,,,,30.0,0,Borrowed,"From the New Zealand Food Files 2009 record L67, in 2012."
+F003832,16802,74749,fruit,regular,,,19.0,0,Imputed,"From AUSNUT 2007 record 06D10304 Fig, dried"
+F003834,16503,74750,fruit,regular,,,50.0,0,Imputed,"From AUSNUT 2007 record 06D10303 Fig, unpeeled, raw"
+F004262,16303,74751,fruit,medium,,,258.0,0,Estimated,Assumes the mid-point between small and large. Assumes 69% edible portion.
+F004286,16504,74752,fruit,medium,,,90.0,0,Imputed,"From AUSNUT 2007 record 06D10311 Guava, raw"
+F004594,16504,74753,fruit,medium,,,805.0,0,Imputed,"From NUTTAB 2010 record 06D10416 Jackfruit, raw"
+F004816,16601,74754,fruit,medium,,,78.0,0,Imputed,"From AUSNUT 2007 record 06D101313 Kiwifruit, hayward, peeled, raw"
+F004815,16601,74755,fruit,medium,,,78.0,0,Imputed,"From AUSNUT 2007 record 06D101313 Kiwifruit, hayward, peeled, raw"
+F005174,16302,74756,fruit,medium,,,99.0,0,Imputed,"From AUSNUT 2007 record 06B10044 Lemon, peeled, raw"
+F005199,16302,74757,fruit,medium,,,49.0,0,Imputed,"From AUSNUT 2007 record 06B10046 Lime, peeled, raw"
+F005244,16105,74758,fruit,medium,,,13.0,0,Imputed,"From NUTTAB 2010 record 06D10407 Loquat, peeled, raw"
+F005255,16504,74759,fruit,medium,,,10.0,0,Imputed,"From NUTTAB 2010 record 06D10408 Lychee, peeled, raw"
+F005293,16303,74760,fruit,medium,,,75.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 76% edible portion.
+F005299,16504,74761,fruit,medium,,all varieties except R2E2,294.0,0,Analysed,FSANZ 2011. Supermarket search. Assumes 68% edible portion.
+F006021,16401,74762,fruit,medium,,,151.0,0,Imputed,"From AUSNUT 1999 record 06C10059 Nectarine, raw"
+F006277,16301,74763,fruit,medium,,,131.0,0,Imputed,"From AUSNUT 1999 record 06B10016 orange, medium, 6-8cm diameter"
+F006276,16301,74764,fruit,medium,,,162.0,0,Analysed,Manually weighed by FSANZ in 2011. Note - AUSNUT value was 131.00
+F006279,16301,74765,fruit,medium,,,131.0,0,Imputed,"From AUSNUT2007 record 06B10056  Orange, valencia, peeled, raw"
+F006333,16504,74766,fruit,medium,,,18.0,0,Imputed,From AUSNUT 2007 record 06D10321 Passionfruit
+F006573,16401,74767,fruit,medium,,,145.0,0,Imputed,"From AUSNUT 2007 record 06C10146 Peach, fresh, unpeeled, raw"
+F006604,16103,74768,fruit,medium,,,190.0,0,Imputed,"From NUTTAB 2010 record 06D10447 Pear, nashi, unpeeled, raw"
+F006628,16503,74769,fruit,medium,,,76.0,0,Imputed,"From NUTTAB 2010 record 06D10410 Persimmon, peeled, raw"
+F006708,16505,74770,slice,,,,40.0,0,Imputed,"AUSNUT 2007 record 06D10330 pineapple, canned, drained"
+F006832,16403,74771,fruit,medium,,,66.0,0,Imputed,"From AUSNUT 2007 record 06C10158 unpeeled, raw, not further specified"
+F006826,16404,74772,fruit,all sizes,,,31.0,0,Imputed,"AUSNUT 2007 record 06C10155 Plum, dark, canned in syrup, drained"
+F006842,16504,74773,fruit,all sizes,,,240.0,0,Imputed,"From AUSNUT 2007 record 06D10332 Pomegranate, peeled, raw"
+F007457,16504,74774,fruit,medium,,,86.0,0,Imputed,"From NUTTAB 2010 record 06D10417 Prickly pear, peeled, raw"
+F007494,16802,74775,fruit,medium,,,8.0,0,Imputed,From AUSNUT 2007 record 06C10157 Prune (dried plum)
+F007591,16105,74776,fruit,small/medium,,,463.0,0,Imputed,"From NUTTAB 2010 record 06D10449 Quince, peeled, raw"
+F007610,16801,74777,box,mini/snack size,,,40.0,0,Imputed,From 06D10519 Sultana
+F007612,16504,74778,fruit,medium,,,16.0,0,Imputed,"From NUTTAB 2010 record 06D10409 Rambutan, peeled, raw"
+F008952,16201,74779,fruit,medium,,,12.0,0,Industry,Victorian Strawberry Growers 2006
+F008983,16801,74780,box,mini/snack size,,,40.0,0,Label Data,Based on product information available in 2011
+F009080,16503,74781,fruit,all sizes,,,71.0,0,Imputed,"From NUTTAB 2010 record 06D10412 Tamarillo, peeled, raw"
+F009087,16303,74782,fruit,small/medium,,,115.0,0,Imputed,"From AUSNUT 2007 record 06B10049 Mandarin (tangelo), peeled, raw"
+F009088,16303,74783,fruit,small/medium,,,86.0,0,Imputed,"From AUSNUT 2007 record 06B10048 Mandarin (tangor), peeled, raw"
+F006830,16804,74784,plum,medium,,,1.6,0,Analysed,Manual weighing by FSANZ in 2012
+F002755,18903,74785,nugget,,,,20.0,0,Label Data,Average weight of 4 brands commonly purchased from supermarkets
+F002752,18903,74786,nugget,,,all brands,18.0,0,Label Data,Average of KFC and hungry jacks chicken nuggets
+F002752,18903,74787,strip,,,,38.0,0,Label Data,Based on product information available for KFC chicken strips in 2013
+F002751,18903,74788,tender,,,all brands,40.0,0,Label Data,Based on product information available on the Oporto's website for chicken tenders
+F000228,18601,74789,rasher,,,,64.0,0,Analysed,Manual weighing by FSANZ in 2012
+F000227,18601,74790,rasher,,,,42.0,0,Analysed,Manual weighing by FSANZ in 2012
+F000231,18601,74791,rasher,,,,22.0,0,Analysed,Manual weighing by FSANZ in 2012
+F001322,18606,74792,can,,,,425.0,0,Label Data,Based on products available in 2017
+F004025,18502,74793,frankfurt,cocktail size,,,25.0,0,Estimated,Based on ~20 frankfurts/500 g pack of Black & Gold cocktail franks available in 2013
+F004025,18502,74794,frankfurt,long and thin,,,57.0,0,Imputed,"From AUSNUT 2007 record 08E20083 Frankfurt, cooked"
+F004299,18602,74795,slice,regular,,,25.0,0,Analysed,Manually weighed by FSANZ in 2013. Included a deli sliced ham (not shaved)
+F006675,13405,74796,can,,,,425.0,0,Label Data,Based on products available in 2017
+F007459,18602,74797,slice,regular/thin/shaved,,,17.4,0,Analysed,Collected as part of the NATSINPAS analytical program.
+F008112,18501,74798,sausage,long and thin,,,86.0,0,Analysed,"Meat & Livestock Australia, 2015"
+F008106,18501,74799,sausage,long and thin,,,79.0,0,Estimated,"Meat & Livestock Australia, 2015"
+F008107,18501,74800,sausage,long and thin,,,77.0,0,Estimated,"Meat & Livestock Australia, 2015"
+F008126,18603,74801,sausage,,,,147.0,0,Estimated,Based on 8 chorizo samples purchased for analysis in 2013.
+F008125,18603,74802,sausage,,,,123.0,0,Estimated,Calculated from raw weight assuming -10.6% weight change factor based on data for beef sausages from MLA (2015)
+F009450,18606,74803,can,,,,425.0,0,Label Data,Based on products available in 2017
+F009452,18606,74804,can,,,,425.0,0,Label Data,Based on products available in 2017
+F008233,15501,74805,fillet,medium,,,67.0,0,Estimated,Based on the size of frozen fish fillets available in May 2013 with a weight change factor applied.
+F003950,15501,74806,fillet,medium,,,67.0,0,Estimated,Based on the size of frozen fish fillets available in May 2013 with a weight change factor applied
+F003954,15501,74807,fillet,medium,,,67.0,0,Estimated,Based on the size of frozen fish fillets available in May 2013 with a weight change factor applied
+F003907,15501,74808,fillet,medium,,,250.0,0,Analysed,Manually weighed by FSANZ in June 2012
+F003897,15501,74809,fish finger,,,,27.0,0,Analysed,Manually weighed by FSANZ in 2013.
+F003896,15501,74810,fish finger,,,,20.0,0,Estimated,Calculated from raw weight assuming -12% weight change factor
+F007864,15102,74811,slice,,,,25.0,0,Analysed,"Average of slices within commercial packages of various sizes (20 g per slice for small packs Huon & Ocean blue; 25 g for Coles' large pack, 41 g for Tassel 500 g pack, 25 g average for 200 g pack)"
+F009285,15401,74812,can,individual serve,drained,,70.0,0,Label Data,Average of various brands calculated by FSANZ in 2013
+F007193,26101,74813,bag or packet,single serve,,all brands,50.0,0,Label Data,Average of 2 common brands available in 2011 (Smiths and Thins)
+F007193,26101,74814,bag or packet,single serve from a multipack,,all brands,21.0,0,Label Data,"Average of 5 common brands available in 2011 (Kettle, Red Rock Deli, Smiths, Thins, Woolworths)"
+F007201,26101,74815,bag or packet,single serve,,all brands,45.0,0,Label Data,Average of 2 common brands available in 2011 (Smiths and Thins)
+F007201,26101,74816,bag or packet,single serve from a multipack,,all brands,18.5,0,Label Data,"Average of 4 common brands available in 2011 (Kettle, Smiths, Thins, Woolworths)"
+F007204,26101,74817,packet/bag,single serve from multipack,,all brands,18.5,0,Label Data,Based on product information available for French Fries in 2013
+F009073,26201,74818,taco shell,regular,,,11.0,0,Label Data,Based on product information available for Old El Paso website in May 2012.
+F000279,28102,74819,bar,regular,,,55.0,0,Label Data,Based on product information available on the Cadbury for Cherry ripe bars in 2018.
+F000285,28102,74820,bar,regular,,,45.0,0,Label Data,Based on product information available on the Mars website on Bounty bars in 2018.
+F000296,28103,74821,bar,regular,,,50.0,0,Label Data,Based on product information available on the Cadbury website for Crunchy bars in 2018.
+F000348,28103,74822,bar,regular,,,53.0,0,Label Data,Based on product information available on the Mars website for Mars bars in 2018.
+F002929,28101,74824,bar,"regular, individual",,,50.0,0,Label Data,Based on product information available on the Woolworths website in 2018
+F002929,28101,74823,frog,regular,,,15.0,0,Label Data,Based on product information available on the Cadbury website for Freddo frogs in 2018
+F002934,28103,74825,frog/koala,regular,,,20.0,0,Label Data,Based on product information available for Freddo frogs and Caramello Koalas in 2013
+F002937,28102,74826,bar,regular,,,50.0,0,Label Data,Based on product information available on the woolworths website in 2018
+F002939,28102,74827,bar,"regular, individual",,,50.0,0,Label Data,Based on product information available on the Woolworths website in 2018
+F002946,28101,74828,bar,"regular, individual",,,50.0,0,Label Data,Based on product information available on the Woolworths website in 2018
+F003100,28103,74829,packet,"regular, individual",,,50.0,0,Label Data,Based on product information available on the Woolworths website in 2018
+F004600,27201,74833,packet/sachet,Individual serve,,,14.0,0,Label Data,Based on product information available in 2011.
+F004607,27201,74834,packet/sachet,Individual serve,,,14.0,0,Label Data,Based on product information available in 2011.
+F004604,27201,74835,packet/sachet,Individual serve,,,14.0,0,Label Data,Based on product information available in 2011.
+F005421,27201,74836,packet/sachet,Individual serve,,,14.0,0,Label Data,Based on product information available in 2011
+F008777,27204,74837,packet/sachet,Individual serve,,,20.0,0,Label Data,Based on the serve size information on product label available in 2011
+F004380,27102,74838,packet/sachet,Individual serve,,,14.0,0,Label Data,Based on product information available in 2011
+F008969,27101,74840,sachet/packet,single serve,,,3.0,0,Label Data,Mean of 2 brands
+F008973,27101,74841,sachet/packet,single serve,,,3.0,0,Imputed,"From 12A10073 sugar, white, granulated or lump"
+F004615,27301,74842,tub,individual serve,,,125.0,0,Label Data,Based on products information available in 2013
+F005213,28401,74843,piece,,,all brands,15.0,0,Label Data,Based on product information available in 2011. Average of 6 brands
+F005215,28103,74832,log,,,all brands,40.0,0,Imputed,Based on label data for Capricorn Licorice Choc Logs available in 2017.
+F000144,24402,74844,artichoke,medium,,,133.0,0,Analysed,"AUSNUT 2007 record 13A11017 Artichoke, globe, raw"
+F000142,24402,74845,heart/item,,,,27.0,0,Imputed,"AUSNUT 2007 record 13A11018 Artichoke, globe, boiled"
+F000141,24402,74846,heart/item,,,,40.0,0,Imputed,"From NUTTAB 2010 record 13A11510 Artichoke heart, canned in brine, drained"
+F000155,24402,74847,spear,,,,16.0,0,Imputed,"AUSNUT 2007 record 13A11021 Asparagus, raw"
+F000151,24402,74848,spear,,,,11.0,0,Imputed,"AUSNUT 2007 record 13A11022 Asparagus, boiled"
+F000149,24402,74849,spear,,,,13.0,0,Imputed,"AUSNUT 2007 record 13A11023 Asparagus, canned"
+F000162,24705,74850,avocado,medium,,,159.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 72% edible portion.
+F000396,24403,74851,bunch,leaves only,,,40.0,0,Analysed,Manually weighed by FSANZ in 2013.
+F001015,24302,74852,beetroot,small/medium,,,82.0,0,Imputed,"From AUSNUT 2007 record 13A11038 Beetroot, fresh, peeled, raw"
+F001013,24302,74853,beetroot,medium,,,67.0,0,Imputed,Calculated from the raw weight assuming -18% weight change factor
+F001014,24302,74854,beetroot,medium,,,76.0,0,Imputed,Calculated from the raw weight assuming -7% weight change factor
+F001010,24302,74856,slice,medium,,,19.0,0,Analysed,Manual weighing of slices of canned beetroot by FSANZ in 2013.
+F001301,24201,74857,bok choy,medium,,,120.0,0,Analysed,Supermarket search undertaken by FSANZ in 2012. Assumes 80% edible portion.
+F001300,24201,74858,bok choy,medium,,,84.0,0,Estimated,Calculated from raw weight assuming -30% weight change factor
+F001302,24201,74859,bok choy,medium,,,115.0,0,Estimated,Calculated from raw weight assuming -4% weight change factor
+F001905,24202,74860,floret/piece,medium,,,20.0,0,Analysed,Manual weighing of medium fresh broccoli flowerets by FSANZ in 2013
+F001904,24202,74861,floret/piece,medium,,,19.2,0,Estimated,Calculated from raw weight assuming -4% weight change factor
+F001900,24202,74862,floret/piece,medium,,,19.2,0,Estimated,Calculated from raw weight assuming -4% weight change factor
+F001899,24202,74863,floret/piece,medium,,,16.4,0,Estimated,Calculated from raw weight assuming -18% weight change factor
+F001909,24202,74864,floret/stalk,medium,,,29.0,0,Analysed,Manual weighing by FSANZ in 2013.
+F001908,24202,74865,floret/stalk,medium,,,19.1,0,Estimated,Calculated from raw weight assuming -4% weight change factor
+F001914,24201,74866,brussel sprout,medium,,,19.0,0,Imputed,"From AUSNUT 2007 record 13A11043 Brussel sprout, raw"
+F001913,24201,74867,brussel sprout,medium,,,21.0,0,Imputed,"From AUSNUT 2007 record 13A11044 Brussel sprout, boiled"
+F002239,24705,74868,capsicum,medium,,,278.0,0,Analysed,FSANZ 2011. Student research project.
+F002238,24705,74869,capsicum,medium,,,250.0,0,Estimated,Calculated from raw weight assuming -10% weight change factor
+F002247,24705,74870,capsicum,medium,,,244.0,0,Estimated,Calculated from raw weight assuming -10% weight change factor
+F002246,24705,74871,capsicum,medium,,,271.0,0,Analysed,FSANZ 2011. Student research project.
+F002266,24301,74872,baby carrot,medium,,,18.0,0,Imputed,"From NUTTAB 2010 record 13A11424 Carrot, baby, raw"
+F002265,24301,74873,baby carrot,medium,,,16.7,0,Estimated,Calculated from raw weight assuming -7% weight change factor
+F002263,24301,74874,baby carrot,all sizes,,,16.6,0,Estimated,Calculated from raw weight assuming -8% weight change factor
+F002276,24301,74875,carrot,small,,,74.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011
+F002276,24301,74876,carrot,medium,,,129.0,0,Analysed,FSANZ 2011. Student research project.
+F002274,24301,74877,carrot,medium,,,106.0,0,Estimated,Calculated from raw weight assuming -18% weight change factor
+F002275,24301,74878,carrot,medium,,,120.0,0,Estimated,Calculated from raw weight assuming -7% weight change factor
+F002378,24202,74879,floret,medium,,,36.0,0,Analysed,Manual weighing of medium fresh cauliflower flowerets by FSANZ in 2013
+F002377,24202,74880,floret,medium,,,35.0,0,Estimated,Calculated from raw weight assuming -4% weight change factor
+F002384,24302,74881,celeriac,medium,,,254.0,0,Analysed,Manually weighed by FSANZ in 2012.
+F002390,24402,74882,stalk,medium,,,40.0,0,Imputed,AUSNUT 2007 record 13A11078 Celery raw
+F002389,24402,74883,stalk,medium,,,36.0,0,Imputed,"AUSNUT 2007 record 13A11079 Celery, stir-fried without oil"
+F002896,24705,74884,chilli,medium,,,15.0,0,Analysed,Supermarket scan undertaken by FSANZ in 2011. Edible portion 95%
+F002894,24705,74885,chilli,medium,,,12.0,0,Imputed,"AUSNUT 2007 record 13A11085 Chilli (chili), red, stir-fried without oil"
+F002901,24705,74886,chilli,medium,,,15.0,0,Analysed,Supermarket scan undertaken by FSANZ in 2011. Edible portion 95%
+F002900,24705,74887,chilli,medium,,,12.0,0,Imputed,"AUSNUT 2007 record 13A11085 Chilli (chili), red, stir-fried without oil"
+F002949,24705,74888,choko,medium,,,168.0,0,Imputed,"AUSNUT 2007 record 13A11087 Choko, peeled, raw"
+F002948,24705,74889,choko,medium,,,141.0,0,Estimated,Calculated from raw weight assuming -16% weight change factor
+F003192,24403,74890,bunch,leaves only,,,40.0,0,Analysed,Manually weighed by FSANZ in 2013.
+F003209,24704,74891,ear (corn),medium,,,163.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 52% edible portion.
+F003200,24704,74893,cobette,,,,52.0,0,Estimated,Assumes 1 cob = 3 cobettes.
+F003200,24704,74892,ear (corn),medium,,,156.0,0,Estimated,Calculated from raw weight assuming -4% weight change factor
+F003321,24705,74894,cucumber,medium,,,174.0,0,Analysed,FSANZ 2011. Student research project. Edible portion 90%
+F003324,24705,74895,cucumber,medium,,,291.0,0,Imputed,"From NUTTAB 2010 record 13A11436 Cucumber, telegraph"
+F003761,24705,74896,eggplant,medium,,,459.0,0,Estimated,Assumes mid point between small and large eggplant. Assumes 90% edible portion.
+F003760,24705,74897,eggplant,medium,,,427.0,0,Estimated,Calculated from raw weight assuming -7% weight change factor
+F003759,24705,74898,eggplant,medium,,,330.0,0,Estimated,Calculated from raw weight assuming -28% weight change factor. Mid-point between weight change factor for baked v grilled eggplant
+F004206,23202,74899,whole,regular,,,25.0,0,Imputed,"From AUSNUT 2007 record 10B10052 Gherkin, pickled, commercial"
+F005164,24802,74900,leek,medium,,,195.0,0,Estimated,Assumes mid point between small and large leek. Assumes 65% edible portion.
+F005163,24802,74901,leek,medium,,,162.0,0,Estimated,Calculated from raw weight assuming -17% weight change factor
+F005162,24802,74902,leek,medium,,,176.0,0,Estimated,Calculated from raw weight assuming -10% weight change factor
+F005192,24401,74903,head (lettuce),medium,,,570.0,0,Analysed,FSANZ 2011. Student research project.
+F005700,24403,74904,bunch,leaves only,,,40.0,0,Analysed,Manually weighed by FSANZ in 2013.
+F005946,24703,74905,mushroom,medium,,,35.0,0,Analysed,FSANZ student research project. Australian Mushroom Growers Association.
+F005945,24703,74906,mushroom,medium,,,18.6,0,Estimated,Calculated from raw weight assuming -47% weight change factor
+F005949,24703,74907,mushroom,medium,,,35.0,0,Analysed,Australian Mushroom Growers Association.
+F005948,24703,74908,mushroom,medium,,,18.6,0,Estimated,Calculated from raw weight assuming -47% weight change factor
+F006194,24705,74909,okra,,,,10.6,0,Borrowed,USDA release 25 record Okra cooked
+F006198,23202,74910,whole,medium,,,4.0,0,Imputed,"From AUSNUT 2007 record 10B10054 Olive, green or black, drained"
+F006225,24802,74911,onion,medium,,,142.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011.
+F006243,24802,74912,onion,medium,,,104.0,0,Estimated,Assumes the mid-point between small and large. Assumes 80% edible portion.
+F006250,24802,74913,spring onion,medium,,,15.0,0,Imputed,"From AUSNUT 2007 record 13A11121 Onion, spring, raw"
+F006249,24802,74914,spring onion,medium,,,9.0,0,Estimated,Calculated from raw weight assuming -38% weight change factor
+F006328,24302,74915,parsnip,medium,,,72.0,0,Imputed,Based on size of the small and medium measures created for AUSNUT 1999
+F006326,24302,74916,parsnip,medium,,,67.0,0,Estimated,Based on size of the small and medium measures created for AUSNUT 1999
+F006327,24302,74917,parsnip,medium,,,67.0,0,Estimated,Based on size of the small and medium measures created for AUSNUT 1999
+F007235,24102,74918,medium,,,,117.0,0,Label Data,Based on product information from Red rooster website available in 2018
+F007236,24102,74920,medium,,,,175.0,0,Label Data,Based on product information from Nandos (2010) and Oporto (2018).
+F007238,24102,74922,takeaway medium/regular,,,,200.0,0,Analysed,Manual weighing of medium chip serves undertaken by FSANZ in 2012.
+F007242,24102,74924,takeaway medium/regular,,,,200.0,0,Analysed,Manual weighing of medium chip serves undertaken by FSANZ in 2012.
+F007247,24101,74925,potato,medium,,,175.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007244,24101,74926,potato,medium,,,116.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007245,24101,74927,potato,medium,,,172.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007254,24101,74928,potato,medium,,,137.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007250,24101,74929,potato,medium,,,91.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007252,24101,74930,potato,medium,,,134.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007308,24101,74933,potato,medium,,,69.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007305,24101,74934,potato,medium,,,46.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007306,24101,74935,potato,medium,,,68.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007325,24101,74936,potato,medium,,,175.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007314,24101,74937,potato,medium,,,116.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007320,24101,74938,potato,medium,,,172.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007361,24101,74939,potato,medium,,,240.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007358,24101,74940,potato,medium,,,158.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007359,24101,74941,potato,medium,,,235.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007368,24101,74942,potato,medium,,,240.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007364,24101,74943,potato,medium,,,158.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007366,24101,74944,potato,medium,,,235.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007386,24101,74945,potato,medium,,,245.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 85% edible portion
+F007383,24101,74946,potato,medium,,,116.0,0,Estimated,Calculated from raw weight assuming -34% weight change factor
+F007384,24103,74947,potato,medium,,,277.0,0,Estimated,Calculated from raw weight assuming -2% weight change factor
+F007269,24102,74931,medium,,,,104.0,0,Label Data,Based on product information from McDonalds website available in 2018
+F007606,24302,74948,radish,medium,,,20.0,0,Imputed,"From AUSNUT 2007 record 13A11236 Radish, white skinned, peeled, raw"
+F007608,24302,74949,radish,medium,,,20.0,0,Imputed,"From AUSNUT 2007 record 13A11236 Radish, white skinned, peeled, raw"
+F008227,24802,74950,shallot,medium,,,5.5,0,Imputed,"From AUSNUT 2007 record 13A11185 Shallot, raw"
+F008226,24802,74951,shallot,medium,,,6.0,0,Imputed,"From AUSNUT 2007 record 13A11303 Shallot, stir-fried"
+F008373,24501,74952,snow pea,medium,,,3.3,0,Imputed,"From AUSNUT 2007 record 13A11188 Snow pea, raw"
+F008372,24501,74953,snow pea,medium,,,4.0,0,Imputed,"From AUSNUT 2007 record 13A11190 Snow pea, stir-fried"
+F008371,24501,74954,snow pea,medium,,,4.0,0,Imputed,"From AUSNUT 2007 record 13A11190 Snow pea, stir-fried"
+F008811,24702,74955,squash,medium,,,57.0,0,Estimated,Assumes the mid-point between small and large. Assumes 100% edible portion.
+F008810,24702,74956,squash,medium,,,48.0,0,Estimated,Calculated from raw weight assuming -16% weight change factor
+F009021,24302,74957,swede,medium,,,276.0,0,Estimated,Assumes the mid-point between small and large. Assumes 89% edible portion.
+F009020,24302,74958,swede,medium,,,257.0,0,Estimated,Calculated from raw weight assuming -7% weight change factor
+F009033,24302,74959,sweet potato,medium,,,344.0,0,Estimated,Calculated from raw weight assuming -18% weight change factor
+F009034,24302,74960,sweet potato,medium,,,390.0,0,Estimated,Calculated from raw weight assuming -7% weight change factor
+F009190,24601,74961,tomato,medium,,,8.0,0,Imputed,"AUSNUT 2007 record 13A11216 Tomato, cherry"
+F009193,24601,74962,tomato,medium,,,152.0,0,Analysed,FSANZ 2011. Student research project.
+F009211,24601,74963,tomato,medium,,,124.0,0,Analysed,"Manual weighing of 5 medium, trimmed roma tomatoes by FSANZ in 2012"
+F009340,24302,74964,turnip,regular,,,122.0,0,Imputed,"From AUSNUT 2007 record 13A11225 Turnip, white, peeled, raw"
+F009339,24302,74965,turnip,regular,,,116.0,0,Imputed,"From AUSNUT 2007 record 13A11226 Turnip, white, peeled, boiled"
+F009775,24702,74966,zucchini,medium,,,195.0,0,Analysed,Supermarket search undertaken by FSANZ in 2011. Assumes 93% edible portion.
+F009774,24702,74967,zucchini,medium,,,137.0,0,Estimated,Calculated from raw weight assuming -30% weight change factor
+F009773,24702,74968,zucchini,medium,,,164.0,0,Estimated,Calculated from raw weight assuming -16% weight change factor
+F009766,24702,74969,zucchini,medium,,,195.0,0,Imputed,From green zucchini
+F009765,24702,74970,zucchini,medium,,,195.0,0,Imputed,From green zucchini
